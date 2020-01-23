@@ -15,7 +15,7 @@ Attention: The implementation of algorithm (2)(3)(4) refers to the source code [
 * LSTM based predictor.
 
 ### II. Code File structure
-* **/algorithms** -- Source code of algorithm.
+* **/algorithms** -- Source code of algorithms.
 * **/data** -- The metro vibration energy harvesting dataset we used.
 * **/LSTM** -- LSTM energy predictor based on tensorflow.
 * **/saved_models** -- Well trained LSTM model.
