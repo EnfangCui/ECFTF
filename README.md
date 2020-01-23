@@ -14,6 +14,10 @@ Attention: The implementation of algorithm (2)(3)(4) refers to the source code [
 #### Energy Prediction
 * LSTM based predictor.
 
+#### Dataset
+We collect 200 hours of metro vehicle vibration energy harvesting data in total at intervals of 2 min.
+
+
 ### II. Code File structure
 * **/algorithms** -- Source code of algorithms.
 * **/data** -- The metro vibration energy harvesting dataset we used.
