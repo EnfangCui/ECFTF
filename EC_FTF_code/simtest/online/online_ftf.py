@@ -31,7 +31,7 @@ for file_raw_name in source_list:
     result_all = []
     real_all = []
     bmin = 196  # half-way threshold
-    bmax = 756  # energy stored in 2AA batteries (3Ah, 3V), in Joules
+    bmax = 756  
     b0 = 378
     allocated = []
     all_cycle = []
