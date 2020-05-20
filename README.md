@@ -1,5 +1,4 @@
-# ECFTF
-The source code of our paper "EC-FTF: Edge Computing Assisted Fast Time Fair Energy Allocation for Energy Harvesting Devices". 
+# ECFTF 
 
 ### I. Code description
 The code includes two parts: energy allocation algorithms and energy prediction algorithms. The following algorithms were implemented:
