@@ -7,7 +7,7 @@ import datetime
 
 
 #Load Dataset
-dataframe = pd.read_csv("../../data/eh_3min.csv")
+dataframe = pd.read_csv("../../data/eh_2min.csv")
 data = dataframe['value']
 
 
